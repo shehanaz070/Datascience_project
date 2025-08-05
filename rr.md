@@ -35,5 +35,5 @@ This suggests that market sentiment can be a meaningful signal for adjusting tra
 
 1. Clone the repo:
    ```bash
-   git clone 
+   git clone https://github.com/shehanaz070/Datascience_project.git
    
