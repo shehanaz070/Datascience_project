@@ -27,7 +27,7 @@ This suggests that market sentiment can be a meaningful signal for adjusting tra
 
 ## 🖼️ Output Preview
 
-![Profit vs Sentiment](outputs/profit_vs_sentiment.png)
+![Profit vs Sentiment](profit_vs_sentiment.png)
 
 ---
 
